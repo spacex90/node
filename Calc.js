@@ -1,3 +1,4 @@
+//the calculator module
 function add(x,y){
     return x+y
 }
